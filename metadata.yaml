@@ -1,0 +1,30 @@
+_repo: Cathedral-Cities-of-England60-reproductions-from-original-water-colours_35237
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, W. W. (William Wiehe)
+    alias: Collins, William Wiehe
+    birthdate: 1862
+    deathdate: 1951
+    gutenberg_agent_id: '35751'
+    url: http://www.gutenberg.org/2009/agents/35751
+description: ''
+gutenberg_issued: '2011-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcc 'DA'
+- !lcsh 'Cathedrals -- England'
+title: 'Cathedral Cities of England
+
+  60 reproductions from original water-colours'
+url: http://www.gutenberg.org/ebooks/35237
